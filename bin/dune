@@ -1,0 +1,6 @@
+(executable
+ (public_name jitterbug)
+ (name main)
+ (libraries jitterbug)
+ (link_flags -linkall)
+)

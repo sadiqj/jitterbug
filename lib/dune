@@ -1,0 +1,5 @@
+(library
+ (name jitterbug)
+ (libraries hdr_histogram unix)
+ (library_flags -linkall)
+)
